@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 \# MAD204 – Lab 04: Notes \& Reminder App  
 
 Student Name: Nithin Amin  
@@ -63,6 +63,5 @@ Technologies used:
 
 
 
-=======
 # MAD204-LAB04-Nithin-Amin
->>>>>>> d648aaad609aee01892b751494673ab1148bd0ab
+
